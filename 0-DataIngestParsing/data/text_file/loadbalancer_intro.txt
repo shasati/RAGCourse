@@ -1,0 +1,4 @@
+What is a Load Balancer in OCI?
+
+The OCI Load Balancer is a fully managed, highly available service that automatically distributes incoming traffic across multiple backend servers in a VCN subnet.
+It acts as the entry point for your apps, improving availability, scalability, and security.
